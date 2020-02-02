@@ -1,0 +1,28 @@
+{
+  "name": "myacmestore",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test-market": "truffle test test/marketplace.test.js",
+    "test-token": "truffle test test/rewardToken.test.js",
+    "chain": "npx ganache-cli --networkId 999",
+    "deploy-rink": "truffle migrate --reset --network rinkeby`"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulofaulstich/myacmestore.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paulofaulstich/myacmestore/issues"
+  },
+  "homepage": "https://github.com/paulofaulstich/myacmestore#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^2.4.0",
+    "@truffle/hdwallet-provider": "^1.0.29",
+    "dotenv": "^8.2.0"
+  }
+}

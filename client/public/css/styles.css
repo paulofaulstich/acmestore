@@ -1,0 +1,33 @@
+h1 {
+    margin-bottom: 0;
+}
+
+.card-title {
+    margin-bottom: 0;
+}
+
+.product.card {
+    padding-left: 10px;
+}
+
+.product.price {
+    font-size: 0.88rem;
+    display: inline;
+    font-weight: 600;
+    color: grey;
+}
+
+.product.price.img {    
+    height: 50px;
+    padding-left: 60%;
+}
+
+.product.inventory, .product.tokens {
+    margin-bottom: 0px;
+    font-size: 0.95rem;
+    color: gray;
+}
+
+.product.tokens {
+    margin-bottom: 25px;
+}
