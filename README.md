@@ -1,6 +1,6 @@
 # My Acme Store
 
-My Acme Store is a simple market place in Ethereum that allows users to buy products using Ether and earn Tokens (ERC20 tokens (RT)) as rewards for each purchase. Clients can add new products to the Marketplace (for the prupose of this Project, products were added beforehand), specifying amount to sell (inventory) price and Reward Tokens to give away to the buyer for each product bought. Buyers can also buy products, specifying the amount and product Id. Buyer pay for products in Ether, and for each sale, there is a fee sent to the owner of the marketplace and the rest to thethe client (seller).
+My Acme Store is a simple market place in Ethereum that allows users to buy products using Ether and earn Tokens (ERC20 tokens (RT)) as rewards for each purchase. Clients can add new products to the Marketplace (for the prupose of this Project, products were added beforehand), specifying amount to sell (inventory) price and Reward Tokens to give away to the buyer for each product bought. Buyers can also buy products, specifying the amount and product Id. Buyer pay for products in Ether, and for each sale, there is a fee sent to the owner of the marketplace and the rest to the client (seller).
 
 ## Installing/Deployment
 
