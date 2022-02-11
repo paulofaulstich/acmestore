@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/paulofaulstich/acmestore#readme",
   "dependencies": {
-    "@openzeppelin/contracts": "^2.4.0",
+    "@openzeppelin/contracts": "^4.4.2",
     "@truffle/hdwallet-provider": "^1.0.29",
     "dotenv": "^8.2.0"
   }
